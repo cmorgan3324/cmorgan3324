@@ -1,4 +1,4 @@
-# Cory Morgan
+# Cory Morgan 🤖☁️
 
 AWS Certified Solutions Architect building cloud-native systems and AI-powered applications focused on real-world scalability, cost efficiency, and clean architecture.
 
